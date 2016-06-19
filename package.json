@@ -1,5 +1,5 @@
 {
-  "name": "react-skeleton",
+  "name": "react-ingredients",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bvsatyaram/react-skeleton.git"
+    "url": "git+https://github.com/bvsatyaram/react-ingredients.git"
   },
   "author": "BV Satyaram",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bvsatyaram/react-skeleton/issues"
+    "url": "https://github.com/bvsatyaram/react-ingredients/issues"
   },
-  "homepage": "https://github.com/bvsatyaram/react-skeleton#readme",
+  "homepage": "https://github.com/bvsatyaram/react-ingredients#readme",
   "dependencies": {
     "babel-preset-react": "^6.5.0",
     "babelify": "^7.3.0",
